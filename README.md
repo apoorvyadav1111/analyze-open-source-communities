@@ -82,35 +82,35 @@ streamlit run app.py --browser.gatherUsageStats False
 * `requirements.txt` - The file that contains the dependencies for the dashboard.
 
 ## System Architecture
-![image](https://github.com/2023-Fall-CS-415-515/project-3-implementation-ayadav7-arasal2/assets/113153292/9e2f512d-5767-41c7-b228-5c34b8fd72bd)
+![image](https://github.com/apoorvyadav1111/analyze-open-source-communities/assets/32174554/1259d706-1888-4cdd-97f3-afc69b011ae8)
+
 
 
 ## Running Dashboard Screenshots
 1. Home page
-<img width="1360" alt="image" src="https://github.com/2023-Fall-CS-415-515/project-3-implementation-ayadav7-arasal2/assets/113153292/ec5c7424-6131-4a5d-823a-61eda4457941">
+<img width="1360" alt="image" src="https://github.com/apoorvyadav1111/analyze-open-source-communities/assets/32174554/7162f9e2-c858-4882-a877-f0bbaae1c189">
 
 
 2. Data Overview page
-<img width="1372" alt="image" src="https://github.com/2023-Fall-CS-415-515/project-3-implementation-ayadav7-arasal2/assets/113153292/c4751ece-b37a-4633-8ac5-33e303a036f4">
-<img width="1388" alt="image" src="https://github.com/2023-Fall-CS-415-515/project-3-implementation-ayadav7-arasal2/assets/113153292/71e76250-ac38-4bb8-9215-e5b404fb0f90">
+<img width="1372" alt="image" src="https://github.com/apoorvyadav1111/analyze-open-source-communities/assets/32174554/b2f3765d-7f68-40f3-98c6-5221e98e0e51">
+<img width="1388" alt="image" src="https://github.com/apoorvyadav1111/analyze-open-source-communities/assets/32174554/ea1119b0-0522-4fb8-990b-4c94aeb4a30a">
 
 
 
 3. Live Data page
-<img width="1359" alt="image" src="https://github.com/2023-Fall-CS-415-515/project-3-implementation-ayadav7-arasal2/assets/113153292/ffe9dd84-8515-4100-9057-85d61a41497b">
+<img width="1359" alt="image" src="https://github.com/apoorvyadav1111/analyze-open-source-communities/assets/32174554/e4dabf1d-470e-4ff8-ae81-dbea6b401051">
 
 
 4. Toxicity page
-<img width="1375" alt="image" src="https://github.com/2023-Fall-CS-415-515/project-3-implementation-ayadav7-arasal2/assets/113153292/8c53af6e-af3f-4991-aa51-50a5b3522e4a">
-<img width="1332" alt="image" src="https://github.com/2023-Fall-CS-415-515/project-3-implementation-ayadav7-arasal2/assets/113153292/3947b917-690c-4850-8cc8-50a87998cfda">
-
+<img width="1375" alt="image" src="https://github.com/apoorvyadav1111/analyze-open-source-communities/assets/32174554/a91268f9-a5b5-40fe-851d-75f24b1ce753">
+<img width="1332" alt="image" src="https://github.com/apoorvyadav1111/analyze-open-source-communities/assets/32174554/dcb424af-c1f3-44ad-9f72-ffbea0182daf">
 
 5. Activity page
-<img width="1351" alt="image" src="https://github.com/2023-Fall-CS-415-515/project-3-implementation-ayadav7-arasal2/assets/113153292/3b842f9a-c03a-460e-a047-237d0611d587">
+<img width="1351" alt="image" src="https://github.com/apoorvyadav1111/analyze-open-source-communities/assets/32174554/bf71aa86-105c-4522-b7f2-503e8498e08b">
 
 6. About page
-<img width="1390" alt="image" src="https://github.com/2023-Fall-CS-415-515/project-3-implementation-ayadav7-arasal2/assets/113153292/80ca809d-f289-4a41-81ca-3480e6041b1f">
-<img width="1384" alt="image" src="https://github.com/2023-Fall-CS-415-515/project-3-implementation-ayadav7-arasal2/assets/113153292/ee9bdd82-00a6-467b-a1fe-c7d0c2cc00a9">
+<img width="1390" alt="image" src="https://github.com/apoorvyadav1111/analyze-open-source-communities/assets/32174554/8c6a13d8-5b8b-4fa8-a1f9-244de22538af">
+<img width="1384" alt="image" src="https://github.com/apoorvyadav1111/analyze-open-source-communities/assets/32174554/f6a2e895-744a-4429-b3b8-51d0e8ffc2c8">
 
 
 ## References
